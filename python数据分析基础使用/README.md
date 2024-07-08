@@ -1,5 +1,6 @@
 # 在这里我通过对于一些基础案例的分析来把pandas数据分析中一些常用的基础的分析方法展现出来
 # 各个分析文件的介绍
+数据集地址：https://github.com/wesm/pydata-book/tree/3rd-edition/datasets
 1. USDA_json文件读取  
 这是一个美国农业部的数据集，其中数据包括['id', 'description', 'tags', 'manufacturer', 'group', 'portions', 'nutrients'] 这些变量
 在nutrients这个变量中又嵌套了许多字典来详细描述不同的营养物质
